@@ -18,4 +18,5 @@ export default defineConfig({
       },
     }
   ],
+  base: '/flying_cube_konrad/',
 });
